@@ -6,7 +6,7 @@
   "author": "jjjjoseignacio@gmail.com",
   "main": "index.js",
   "scripts": {
-    "start": "quasar build && node index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
