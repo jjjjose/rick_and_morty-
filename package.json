@@ -4,10 +4,9 @@
   "description": "examen",
   "productName": "App de prueba",
   "author": "jjjjoseignacio@gmail.com",
-  "private": true,
+  "main": "index.js",
   "scripts": {
-    "prestart": "quasar build",
-    "start": "node ./index.js"
+    "start": "quasar build && node index.js"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
