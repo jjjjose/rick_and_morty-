@@ -6,6 +6,7 @@
   "author": "jjjjoseignacio@gmail.com",
   "private": true,
   "scripts": {
+    "start": "quasar build && node ./index.js",
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
